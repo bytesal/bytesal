@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🛸 SAL // BYTESAL 🛸</h1>
+  <h1>Hello there!</h1>
   
   <p>💡 <b><code>Discord Bot Developer</code></b> • <b><code>Full-Stack Python Expert</code></b> 💡</p>
   
@@ -25,8 +25,7 @@
 ### 📊 Performance & Git Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ByteSal&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="ByteSal Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteSal&layout=compact&theme=dark&hide_border=true&langs_count=4" alt="ByteSal Languages" height="150" />
+  <img src="https://github-profile-trophies.vercel.app/?username=ByteSal&theme=dracula&no-bg=true&margin-w=15" alt="ByteSal Trophies" />
 </div>
 
 <br />
