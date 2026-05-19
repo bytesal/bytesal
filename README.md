@@ -1,45 +1,37 @@
 <div align="center">
-  <h1>✨ Sal | ByteSal ✨</h1>
-  <p>🚀 <code><b>Discord Bot Developer</b></code> • <code><b>Full-Stack Python Expert</b></code> 🚀</p>
-  
-  <p><strong>Full-Stack Developer | Python & Web Specialist</strong></p>
-  <p>Passionate about building clean, efficient applications and managing cloud infrastructure.</p>
-  
+  <img src="https://capsule-render.vercel.app/type=waving&color=7289DA&height=200&section=header&text=Sal%20|%20ByteSal&fontSize=70&fontColor=ffffff&animation=fadeIn" alt="Header Banner" />
+
+  <br />
+
+  <h3>🚀 Full-Stack Developer & Discord Bot Specialist 🚀</h3>
+  <p>Passionate about building clean, efficient applications, advanced bot ecosystems, and robust cloud infrastructure.</p>
+
   <a href="https://discord.com/users/1503347550122410065" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Connect%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <img src="https://img.shields.io/badge/Discord_Bot_Developer-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Bot Developer" />
-  <img src="https://img.shields.io/badge/API_Development-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="API Development" />
 </div>
 
----
+<br />
+
+### 🛠️ Core Stack & Specialized Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Backend & Automation** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Discord API](https://img.shields.io/badge/Discord%20API-7289DA?style=flat-square&logo=discord&logoColor=white) ![API Dev](https://img.shields.io/badge/API%20Development-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| **Frontend Development** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **DevOps & Hosting** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Hetzner](https://img.shields.io/badge/Hetzner-D50C22?style=flat-square&logo=hetzner&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+
+<br />
+
+### 📊 Performance & Git Metrics
 
 <div align="center">
-  <h3>🛠️ Technologies & Tools</h3>
-  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  
-  <br />
-  
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Hetzner-D50C22?style=for-the-badge&logo=hetzner&logoColor=white" alt="Hetzner" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ByteSal&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="ByteSal Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteSal&layout=compact&theme=nord&hide_border=true&langs_count=4" alt="ByteSal Languages" height="160" />
 </div>
 
----
+<br />
 
 <div align="center">
-  <h3>📊 GitHub Analytics</h3>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ByteSal&theme=github_dark" alt="ByteSal's GitHub Stats" />
-  
-  <br />
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ByteSal&theme=react-dark" alt="ByteSal's GitHub Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ByteSal&theme=dracula&bg_color=00000000&hide_border=true" alt="ByteSal Activity" width="100%" />
 </div>
-
----
