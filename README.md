@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>⚡ ByteSal ⚡</h1>
+  <h1>⚡ Hi! I'm Sal.⚡</h1>
   
   <p>💡 <b><code>Discord Bot Developer</code></b> • <b><code>Full‑Stack Python Expert</code></b> 💡</p>
   
