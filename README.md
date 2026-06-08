@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>Hello there!</h1>
+  <h1>⚡ ByteSal ⚡</h1>
   
-  <p>💡 <b><code>Discord Bot Developer</code></b> • <b><code>Full-Stack Python Expert</code></b> 💡</p>
+  <p>💡 <b><code>Discord Bot Developer</code></b> • <b><code>Full‑Stack Python Expert</code></b> 💡</p>
   
   <p>Passionate about building clean, efficient applications, advanced bot ecosystems, and robust cloud infrastructure.</p>
 
@@ -9,6 +9,15 @@
     <img src="https://img.shields.io/badge/Connect%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
+
+<br />
+
+### 🚀 Featured Projects
+
+| Project | Key Experience |
+| :--- | :--- |
+| **iSida** | Full‑featured Discord bot • Slash commands • MongoDB integration • Moderation commands • Anti‑spam & logging • Role management • Asyncio concurrency |
+| **ModMail** | Multi‑server ticket system • Persistent views & modals • Complete MongoDB storage • Real‑time message relay • Multi‑guild support with isolated configs |
 
 <br />
 
@@ -24,13 +33,15 @@
 
 <br />
 
-### 🧠 New & Emerging Expertise
+### 🧠 Proven Expertise from Real Projects
 
-- **Async Architecture** – High‑performance bots with `asyncio` & `aiohttp`
-- **Container Orchestration** – Deploying Discord bots with Docker & Kubernetes (K3s on Hetzner)
-- **AI Integration** – LLM‑powered features (OpenAI, Llama, embeddings) + vector databases (Chroma, Pinecone)
-- **Real‑Time Systems** – WebSockets, Redis pub/sub, and slash command sync
-- **CI/CD Pipelines** – Automated testing, building, and rolling updates for bot services
+- **Slash Command Architectures** – Designed and deployed hybrid command trees with subcommands, permissions, and auto‑complete for iSida.
+- **MongoDB in Production** – Used `motor` for async database ops, implemented caching, indexing, and document versioning for both bots.
+- **Ticket Systems** – Built a full ModMail system with thread creation, attachments, transcripts, and server‑specific configurations.
+- **Anti‑Spam & Moderation** – Rate‑limiting, link filters, timeout enforcement, and detailed audit logs (iSida).
+- **Multi‑Guild Isolation** – Separate configurations per Discord server without cross‑talk – used in ModMail.
+- **Persistent UI Components** – Buttons, modals, and select menus that survive bot restarts (discord.py views + custom IDs).
+- **Async High‑Performance** – Leveraged `asyncio.gather`, task groups, and rate‑limit aware sharding.
 
 <br />
 
